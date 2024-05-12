@@ -1,4 +1,5 @@
-import java.util.Locale;
+package Sintaxe_Desafio;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
